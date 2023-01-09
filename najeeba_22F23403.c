@@ -66,7 +66,8 @@ void stockBuySell(int price[], int n)
 		for (int i = 0; i < count; i++)
 			printf(
 			"Buy on day: %dt Sell on day: %dn", sol[i].buy, sol[i].sell);
-	}
+	} // hello hi 
+	// for check only 
 
 	return;
 }
@@ -84,3 +85,4 @@ int main()
 
 	return 0;
 }
+
